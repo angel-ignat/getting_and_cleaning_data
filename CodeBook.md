@@ -1,7 +1,7 @@
 ### Merge the training and the test sets.
 After unzipping the source data it is organized in the following tables:
--features.txt
--activity_labels.txt
+-features.txt\cr
+-activity_labels.txt\cr
 -subject_train.txt
 -X_train.txt
 -Y_train.txt
