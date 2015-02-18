@@ -1,13 +1,13 @@
 ### Merge the training and the test sets.
 After unzipping the source data it is organized in the following tables:
-features.txt
-activity_labels.txt
-subject_train.txt
-X_train.txt
-Y_train.txt
-subject_test.txt
-X_test.txt
-Y_test.txt
+-features.txt
+-activity_labels.txt
+-subject_train.txt
+-X_train.txt
+-Y_train.txt
+-subject_test.txt
+-X_test.txt
+-Y_test.txt
 
 Data is read in the following variables:
 features <- features.txt
